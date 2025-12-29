@@ -101,9 +101,9 @@ This software is provided under the **GNU GPL v3.0** license.
 * 📂 **Orange Pi Zero:** [github.com/sqlinkgit/SQLink_OPI0V1-Update](https://github.com/sqlinkgit/SQLink_OPI0V1-Update)
 
 ### Credits
+* **SQLink - SierraEcho & Team** - Community & Infrastructure
 * **SQ7UTP** - System & Dashboard Developer
 * **Tobias Blomberg (SM0SVX)** - SvxLink Core Author
-* **SQLink - SierraEcho & Team** - Community & Infrastructure
 
 ---
 *Disclaimer: This software is provided "AS IS", without warranty of any kind. Use at your own risk.*
